@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yasir-13
 - 👀 I’m interested in Web Development and DSA
 - 🌱 I’m currently learning DSA
-- 💞️ I’m looking to collaborate on Projects with positive impact towards hadnling the situation of climate change.
+- 💞️ I’m looking to collaborate on Projects with positive impact towards handling the situation of climate change.
 - 📫 How to reach me  - nadeem.yasir2011@gmail.com
 
 <!---
